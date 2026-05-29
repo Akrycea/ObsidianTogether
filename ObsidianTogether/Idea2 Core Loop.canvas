@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"63463caf2093ac69","x":-150,"y":-280,"width":190,"height":60,"type":"text","text":"Eksloracja strefy"},
+		{"id":"dd3b8b220d8860e7","x":60,"y":-160,"width":180,"height":60,"type":"text","text":"Pokonanie bossa"},
+		{"id":"3979d88367f2c04d","x":-360,"y":-160,"width":250,"height":60,"type":"text","text":"Przejście do nowej strefy"},
+		{"id":"a2c44b1e0364120f","x":-180,"y":0,"width":250,"height":60,"type":"text","text":"Zwiększenie % odbieranego życia"}
+	],
+	"edges":[
+		{"id":"b045f3c7e51b6d2e","fromNode":"63463caf2093ac69","fromSide":"right","toNode":"dd3b8b220d8860e7","toSide":"top"},
+		{"id":"9dcaaa19c67adbd2","fromNode":"dd3b8b220d8860e7","fromSide":"bottom","toNode":"a2c44b1e0364120f","toSide":"right"},
+		{"id":"804f17c04225d9d3","fromNode":"a2c44b1e0364120f","fromSide":"left","toNode":"3979d88367f2c04d","toSide":"bottom"},
+		{"id":"5ad690890985c3f4","fromNode":"3979d88367f2c04d","fromSide":"top","toNode":"63463caf2093ac69","toSide":"left"}
+	]
+}
