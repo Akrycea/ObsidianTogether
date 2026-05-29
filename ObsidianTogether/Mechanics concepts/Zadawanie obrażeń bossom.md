@@ -1,0 +1,2 @@
+# Spell card mechanika
+W Touhou boss fighty mają mechaniki spell cardów. Są to specjalne ataki które mają określone patterny. Jeśli gracz ominie wszystkie pociski w spell card ataku, otrzymuje life fragment, a jak zbierze ich pare to ma dodatkowe życie. Możemy w naszej grze zrobić twist tej mechaniki który będzie pozwalać graczowi zadać dodatkowe obrażenia gdy ominie wszystkie pociski przeciwnika
