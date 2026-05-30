@@ -20,3 +20,13 @@ COMBAT
 Gdy gracz w trakcie eksploracji znajdzie trigger który wywołuje walkę z bossem, np odpowiednią lokacje, traci kontrolę nad kamerą w skyboxie, perspektywa wraca z TPP na FPP i odzyskuje kontrole nad poruszaniem się w arenie
 
 
+
+# BACKBONE PROGRESS:
+
+Skybox:
+1. paralax arena - DONE
+2. camera move along path
+3. static with animated background
+4. transition from arena to normal move
+ARENA
+5. exit transition

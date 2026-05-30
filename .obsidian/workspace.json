@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ObsidianTogether/Mechanics concepts/Zadawanie obrażeń bossom.md",
+                "file": "ObsidianTogether/Mechanics concepts/Camera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zadawanie obrażeń bossom"
+              "title": "Camera"
             }
           }
         ],
@@ -214,11 +214,11 @@
   },
   "active": "ff2779ba2915cc82",
   "lastOpenFiles": [
-    "ObsidianTogether/Idea 2.md",
     "ObsidianTogether/Mechanics concepts/Zadawanie obrażeń bossom.md",
     "ObsidianTogether/Mechanics concepts/Camera.md",
-    "ObsidianTogether/Mechanics concepts",
     "ObsidianTogether/Idea2 Core Loop.canvas",
+    "ObsidianTogether/Idea 2.md",
+    "ObsidianTogether/Mechanics concepts",
     "ObsidianTogether/Test.md",
     "ObsidianTogether/Witaj.md",
     "README.md"
