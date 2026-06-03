@@ -18,3 +18,5 @@ takie luźne pomyśły, ale no żeby było spójne
 ogólnie myślałam o tym że robimy combat w 3 wymiarach z tą umiejętnością poruszania się góra dół, i myślałam o tym jak zdesignować exploration puzzles. Nasuwa mi się tutaj problem że nie możemy za bardzo takich obvious parkourów dawać myślę? w sensie troche będą one bez sensu bo w teorii patrząc na same combaty, gracz może latać, w takim razie czemu nie może przelecieć parkoura? Może damy graczowi umiejętność lotu w trybie eksploracji? a to jak wysoko gracz może polecieć podczas eksploracji i combatu zlimitować nie od designu areny, a natomiast od właśnie ulepszeń postaci/znajdywania znajdziek? jeszcze nasuwa mi się pomysł aby zrobić też coś w stylu nieoczywistych znajdziek, np gracz musi skakać po przewalonych drzewach, jakiś innych dziwnych rzeczach, takich w stylu "there is no way the devs thought of that"
 Nie mamy jeszcze designu broni, ale atakowanie w trybie eksploracji też myślę że możemy zrobić by np jakieś interactable environment rzeczy zrobić
 
+
+
