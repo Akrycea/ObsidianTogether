@@ -7,7 +7,7 @@ MECHANIKI DO ZKODOWANIA:
 - handlowanie kolizji z przeszkodami podczas fly sequence?
 
 Trzeci boss, trzecie area:
-Ogólnie po zakończeniu trzeciego area mam pomysł aby gracz trafił do area które nie ma oczywistego wyjścia, myśl o tym jako takiego rodzaju limbo? gracz nie wie w jaki sposób miałby kontynuować swoją drogę, nie ma żadnego wyjścia, po prostu chodziłby w kółko. 
+Ogólnie po zakończeniu drugiego area mam pomysł aby gracz trafił do area które nie ma oczywistego wyjścia, myśl o tym jako takiego rodzaju limbo? gracz nie wie w jaki sposób miałby kontynuować swoją drogę, nie ma żadnego wyjścia, po prostu chodziłby w kółko. 
 
 Jeszcze byśmy musiały zrobić brainstorming jak akurat to się stało że trafił do takiego area a nie po prostu wyszedł z jaskini.
 
