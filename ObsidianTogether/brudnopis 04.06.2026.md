@@ -1,0 +1,1 @@
+Postać z domku w pierwszym area jest specyficznego gatunku ludzi/magicznych stworzeń naturalnych dla tego całego miejsca co jest w tej strefie za barierą, daje graczowi amulet/inny przedmiot który go chroni gdy wykryje złe intencje od osób z tej rasy/gatunku
